@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 10px;
+}
+.header_box1{
+    width: 10%;
+}
+.header_box1 img{
+    width: 40px;height: 40px;
+}
+.header_box2 {
+    width: 80%;
+    text-align: center;
+    font-size: 20px;
+}
+
+.header_box3 {
+    width: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.header_box3 img{
+    width: 40px;height: 40px; 
+}

@@ -1,0 +1,33 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 50px;
+}
+
+.f_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}
+.f_box > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eaeaea;
+    border-radius: 10px;
+    width: 50px;height: 70px;
+    font-weight: bold;
+}
+.footer_box3_broad {
+   font-size: 17px;
+}
+.footer_box3_broad img {
+    width: 35px;
+}
+.f_box .footer_box3_broad {
+    width: 80px; height: 70px;
+}
